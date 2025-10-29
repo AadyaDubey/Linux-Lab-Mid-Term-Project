@@ -1,4 +1,4 @@
-# Linux Lab Experiments
+# Linux Lab Mid Term Project
 This repository contains my Linux lab mid term project.  
 **Name:** Aadya Dubey  
 **Sap ID:** 590029213  
