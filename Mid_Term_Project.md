@@ -5,11 +5,18 @@
 ***
 ***
 
-## Goal
+## Aim
 
 Create a shell script that logs current system information (user, date, running processes, disk usage), rotates logs, and schedules itself to run daily.
 
 * * *
+
+## Requirements:
+* Any Linux Distro  
+* Any text editor (VS Code, Vim,etc.)  
+* Cron service for scheduling
+
+***
 
 ## Script
 
